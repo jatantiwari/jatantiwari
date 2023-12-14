@@ -1,10 +1,7 @@
 <html>
   <head>
-    <style>
-      
-    </style>
   </head>
   <body>
-    <div>Hello Everyone </div>
+    <div><h1>Hi there 👋</h1></div>
   </body>
 </html>
